@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34212.112
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncLogReqRes", "AsyncLogReqRes.csproj", "{D3468377-BA53-4E24-A9C3-39B0F81838BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3468377-BA53-4E24-A9C3-39B0F81838BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3468377-BA53-4E24-A9C3-39B0F81838BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3468377-BA53-4E24-A9C3-39B0F81838BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3468377-BA53-4E24-A9C3-39B0F81838BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB4D5D68-57F8-444F-90C5-A79DF9608147}
+	EndGlobalSection
+EndGlobal
